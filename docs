@@ -1,1 +1,30 @@
+Brainstorm:
+- Auto Follow user
+  - Bluetooth to a tag or locator
+  - Uses vision (Thermal/Camera)
+  - Keeps safe distance (Ultrasonic sensors/laser)
+- Interchangable modules 
+  - Soldering Iron, multimeter
+  - Space for a laptop/charger
+  - Cat heated bed
+- Each Module can be powered
+  - Power distributed across system into each module
+  - 24V Power
+- Custom motor driver
+  - Design custom driver in KiCad
+  - Can take encoder pins
+- Auto Charging/docking
+  - System auto charges when low battery
+  - Uses leaf contact springs
+- 24V System
+  - Uses two 12V batteries in series
+  - Lead-Acid or LiFe
+
+
+Constraints:
+- 2 Motors
+- Chain and Sprocket
+- 4" wheels
+- Needs to handle 100lbs
+- Crawl speed (20-30rpm)
 
